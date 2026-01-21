@@ -1,6 +1,6 @@
-#Appendix
+# Appendix
 
-##Chart displaying vulnerability entries from the National Vulnerability Database regarding AI Chatbots
+## Chart displaying vulnerability entries from the National Vulnerability Database regarding AI Chatbots
 
 |Vulnerability ID|	AI Name|	Vulnerability Type	|	Discovery Date|	Severity|	Type of Attack|
 |----------------|---------|----------------------|---------------|--------|----------------|
