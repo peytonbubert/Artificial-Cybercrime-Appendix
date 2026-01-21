@@ -3,6 +3,7 @@
 ##Chart displaying vulnerability entries from the National Vulnerability Database regarding AI Chatbots
 
 |Vulnerability ID|	AI Name|	Vulnerability Type	|	Discovery Date|	Severity|	Type of Attack|
+|----------------|---------|----------------------|---------------|--------|----------------|
 |CVE-2025-5018	|Wordpress Plugin	|Missing Capability Check|		June 6, 2025	|High	|Unauthorized Access|
 |CVE-2025-30977	|Wordpress Plugin	|Improper Input Neutralization|		June 6, 2025|	Medium	|Cross-Site scripting|
 |CVE-2025-48957	|Wordpress Plugin	|Path Traversal	|	June 2, 2025	|High	|Unauthorized Access|
